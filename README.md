@@ -5,3 +5,6 @@ https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity#
 https://www.kaggle.com/c/online-news-popularity/data
 
 My contributions included data cleaning and transformation using python, also developed clickbait analysis measure to check the relativity of the article to the content
+
+https://docs.google.com/presentation/d/1a2U-BAVgFa6KoU6yagtOJ4Z7x9QNsWgY/edit?usp=sharing&ouid=112409580909615136196&rtpof=true&sd=true
+
